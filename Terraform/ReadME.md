@@ -1,5 +1,7 @@
 # Create S3 Buckets with Terraform
 
+![Image](https://github.com/dev-boris67/AWS-Basics/blob/main/Project%20images/22.png?raw=true).
+
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-devops-terraform1)
 
 **Author:** Nchindo Boris  
